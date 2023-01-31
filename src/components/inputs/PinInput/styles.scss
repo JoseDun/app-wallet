@@ -1,0 +1,12 @@
+$input-size: 70px;
+
+.inputContainer {
+	height: $input-size;
+	width: $input-size;
+	display: flex;
+	align-items: center;
+}
+
+.textInput {
+	line-height: 58px;
+}

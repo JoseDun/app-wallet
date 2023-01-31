@@ -1,0 +1,2 @@
+export const RECHARGE_FORM_SCHEMA_PROVIDER_FIELD_NAME = 'operator';
+export const PACKAGE_FORM_SCHEMA_PROVIDER_FIELD_NAME = 'operator';
